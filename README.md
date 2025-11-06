@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hello! I'm Daniel Arcos
+A Senior Full Stack Engineer & Architect with a lot of of experience specializing in building and scaling mission-critical, high-performance applications. I thrive in complex technical environments, focusing on robust architecture, quality code, and driving systems through the full Software Development Lifecycle (SDLC).
+
+I'm currently based in Calgary, Canada, and primarily work with modern web stacks and enterprise backends.
 
 <!--
 **danielarcos/danielarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
